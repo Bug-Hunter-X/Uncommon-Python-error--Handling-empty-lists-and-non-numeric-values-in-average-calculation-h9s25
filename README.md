@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating an uncommon error related to average calculation. The script showcases how to handle empty lists and lists with non-numeric values to prevent runtime errors.  The solution offers a robust way to manage these situations.
